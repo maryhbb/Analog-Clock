@@ -12,4 +12,17 @@ body {
 }
 img{
     width: 70px ;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.clock{
+    position: relative;
+    background-color: lightgray;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 5px solid darkgray;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .7);
 }
