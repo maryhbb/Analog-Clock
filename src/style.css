@@ -70,3 +70,15 @@ img{
     justify-content: center;
     align-items: center;
 }
+
+.arrows::before{
+    content: "";
+    background-color: darkgreen;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    z-index: 4;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, .7);
+
+}
+
