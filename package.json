@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maryhbb/clock-js.git"
+    "url": "git+https://github.com/maryhbb/Analog-Clock.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maryhbb/clock-js/issues"
+    "url": "https://github.com/maryhbb/Analog-Clock/issues"
   },
-  "homepage": "https://github.com/maryhbb/clock-js#readme",
+  "homepage": "https://github.com/maryhbb/Analog-Clock#readme",
   "devDependencies": {
     "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.0",
