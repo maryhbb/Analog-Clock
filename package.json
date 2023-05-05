@@ -1,0 +1,30 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "Analog Clock in Js using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "serve": "webpack serve --mode development"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryhbb/clock-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryhbb/clock-js/issues"
+  },
+  "homepage": "https://github.com/maryhbb/clock-js#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
